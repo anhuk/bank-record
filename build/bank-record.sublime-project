@@ -7,11 +7,6 @@
 	],
 	"build_systems":
 	[
-    {
-      "name": "Run bank-record",
-      "cmd": ["kitty", "./bank-record"],
-      "working_dir": "${project_path}"
-    },
 		{
 			"name": "bank-record - all",
 			"cmd": ["/usr/bin/make", "-f", "Makefile", "all"],

@@ -1,3 +1,13 @@
+/**
+ * @defgroup   BANK bank
+ *
+ * @brief      This file implements bank.
+ *
+ * @todo       maybe add implementation for delete and save in file bank data;
+ *
+ * @author     Anhuk (nederb@gmail.com)
+ * @date       2020
+ */
 #pragma once
 #include <string>
 #include <vector>
@@ -42,4 +52,8 @@ public:
   /// @param ID person ID
   /// @return person
   const person& operator[](const unsigned int ID);
+
+  /// @brief Return the size of list.
+  /// @return Size of list
+  constexpr int length() const { return size; }
 };
