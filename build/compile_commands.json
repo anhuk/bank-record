@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/anhuk/repos/bank-record/build",
+  "command": "/usr/bin/c++  -I/home/anhuk/repos/bank-record/include -std=gnu++2a -o CMakeFiles/bank-record.dir/src/bank.cpp.o -c /home/anhuk/repos/bank-record/src/bank.cpp",
+  "file": "/home/anhuk/repos/bank-record/src/bank.cpp"
+},
+{
+  "directory": "/home/anhuk/repos/bank-record/build",
+  "command": "/usr/bin/c++  -I/home/anhuk/repos/bank-record/include -std=gnu++2a -o CMakeFiles/bank-record.dir/src/main.cpp.o -c /home/anhuk/repos/bank-record/src/main.cpp",
+  "file": "/home/anhuk/repos/bank-record/src/main.cpp"
+}
+]
