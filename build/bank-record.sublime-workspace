@@ -1,0 +1,680 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"for",
+				"for\tFor Loop"
+			],
+			[
+				"inc",
+				"include <header>\t  Snippet"
+			],
+			[
+				"person",
+				"personList\t  std::vector<person>"
+			],
+			[
+				"p",
+				"print\tvoid print() const"
+			],
+			[
+				"vector",
+				"vector\tstd::vector"
+			],
+			[
+				"PROJECT",
+				"PROJECT_NAME"
+			],
+			[
+				"cmake_",
+				"cmake_minimum_required"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/home/anhuk/repos/bank-record/include/bank.h",
+			"settings":
+			{
+				"buffer_size": 1098,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/anhuk/repos/bank-record/src/main.cpp",
+			"settings":
+			{
+				"buffer_size": 508,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/anhuk/repos/bank-record/src/bank.cpp",
+			"settings":
+			{
+				"buffer_size": 824,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Run bank-record",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Run bank-record",
+					""
+				],
+				[
+					"bank-record - all",
+					""
+				],
+				[
+					"bank-record - bank-record",
+					""
+				],
+				[
+					"bank-record - bank-record/fast",
+					""
+				],
+				[
+					"bank-record - clean",
+					""
+				],
+				[
+					"bank-record - edit_cache",
+					""
+				],
+				[
+					"bank-record - rebuild_cache",
+					""
+				]
+			],
+			[
+				"Run bank-record",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Run bank-record",
+					""
+				],
+				[
+					"bank-record - all",
+					""
+				],
+				[
+					"bank-record - bank-record",
+					""
+				],
+				[
+					"bank-record - bank-record/fast",
+					""
+				],
+				[
+					"bank-record - clean",
+					""
+				],
+				[
+					"bank-record - edit_cache",
+					""
+				],
+				[
+					"bank-record - rebuild_cache",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/User/CMake_C++.sublime-build",
+					""
+				]
+			],
+			[
+				"Run bank-record",
+				""
+			]
+		],
+		[
+			[
+				[
+					"bank-record - all",
+					""
+				],
+				[
+					"bank-record - bank-record",
+					""
+				],
+				[
+					"bank-record - bank-record/fast",
+					""
+				],
+				[
+					"bank-record - clean",
+					""
+				],
+				[
+					"bank-record - edit_cache",
+					""
+				],
+				[
+					"bank-record - rebuild_cache",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/User/CMake_C++.sublime-build",
+					""
+				]
+			],
+			[
+				"bank-record - bank-record",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"hun",
+				"Scope Hunter: Toggle Instant Scoper"
+			],
+			[
+				"clang",
+				"Clang Format: Format Selection"
+			],
+			[
+				"clag",
+				"Clang Format: Format Selection"
+			],
+			[
+				"disal",
+				"Package Control: Disable Package"
+			],
+			[
+				"enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"disable",
+				"LSP: Disable Language Server Globally"
+			],
+			[
+				"lsp ena",
+				"LSP: Enable Language Server Globally"
+			],
+			[
+				"restar",
+				"LSP: Restart Servers"
+			],
+			[
+				"hunter",
+				"Scope Hunter: Toggle Instant Scoper"
+			],
+			[
+				"new file",
+				"File: New View into File"
+			],
+			[
+				"DISCORD",
+				"Discord Rich Presence: Connect to Discord"
+			],
+			[
+				"resou",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"theme",
+				"UI: Select Theme"
+			],
+			[
+				"open reso",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"open res",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"diable",
+				"Package Control: Disable Package"
+			],
+			[
+				"lsp",
+				"LSP: Disable Language Server Globally"
+			],
+			[
+				"disab",
+				"Package Control: Disable Package"
+			],
+			[
+				"disalb",
+				"Package Control: Disable Package"
+			],
+			[
+				"lsp enable",
+				"LSP: Enable Language Server Globally"
+			],
+			[
+				"project",
+				"Project: Save As"
+			],
+			[
+				"lsp disable",
+				"LSP: Disable Language Server Globally"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"install pakage",
+				"Package Control: Install Package"
+			],
+			[
+				"install p",
+				"Package Control: Install Local Dependency"
+			],
+			[
+				"settings",
+				"Preferences: Settings"
+			],
+			[
+				"key",
+				"Preferences: Key Bindings"
+			],
+			[
+				"terminal",
+				"Preferences: Terminal Settings – User"
+			],
+			[
+				"packa",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 200.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/anhuk/repos/bank-record",
+		"/home/anhuk/repos/bank-record/include",
+		"/home/anhuk/repos/bank-record/src"
+	],
+	"file_history":
+	[
+		"/home/anhuk/repos/bank-record/src/main.cpp",
+		"/home/anhuk/repos/bank-record/src/bank.cpp",
+		"/home/anhuk/repos/bank-record/build/bank-record.sublime-project",
+		"/home/anhuk/.config/sublime-text-3/Packages/User/Terminal.sublime-settings",
+		"/home/anhuk/.config/sublime-text-3/Packages/Terminal/Terminal.sublime-settings",
+		"/home/anhuk/.config/sublime-text-3/Packages/Terminal/Default (Linux).sublime-keymap",
+		"/home/anhuk/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+		"/home/anhuk/repos/bank-record/build/input.txt",
+		"/home/anhuk/repos/bank-record/build/output.txt",
+		"/home/anhuk/repos/bank-record/include/bank.h",
+		"/usr/include/c++/10.2.0/bits/stl_vector.h",
+		"/usr/include/c++/10.2.0/bits/stringfwd.h",
+		"/usr/include/c++/10.2.0/ostream",
+		"/usr/include/c++/10.2.0/bits/ostream.tcc",
+		"/home/anhuk/repos/bank-record/CMakeLists.txt",
+		"/home/anhuk/.config/sublime-text-3/Packages/One Dark Material - Theme/schemes/OneDark.tmTheme",
+		"/home/anhuk/.config/sublime-text-3/Packages/Color Scheme - Legacy/Pastels on Dark.tmTheme",
+		"/home/anhuk/.config/sublime-text-3/Packages/C++/C++.sublime-syntax",
+		"/usr/include/c++/10.2.0/iostream",
+		"/usr/include/c++/10.2.0/iosfwd",
+		"/home/anhuk/repos/bank-record/bank-record.sublime-project",
+		"/home/anhuk/repos/bank-record/src/ListBank.hpp"
+	],
+	"find":
+	{
+		"height": 56.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/home/anhuk/repos/bank-record/include/bank.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1098,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								692,
+								692
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "b4",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".<>:\"/",
+									"selector": "source.c++"
+								}
+							],
+							"lsp_active": true,
+							"lsp_language":
+							{
+								"clangd": "cpp"
+							},
+							"show_definitions": false,
+							"syntax": "Packages/C++/C++.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 303.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/home/anhuk/repos/bank-record/src/main.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 508,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								135,
+								135
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "b4",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".<>:\"/",
+									"selector": "source.c++"
+								}
+							],
+							"lsp_active": true,
+							"lsp_language":
+							{
+								"clangd": "cpp"
+							},
+							"scope_hunter.view_enable": false,
+							"show_definitions": false,
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 2,
+					"file": "/home/anhuk/repos/bank-record/src/bank.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 824,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								223,
+								223
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "b4",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".<>:\"/",
+									"selector": "source.c++"
+								}
+							],
+							"lsp_active": true,
+							"lsp_language":
+							{
+								"clangd": "cpp"
+							},
+							"show_definitions": false,
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 37.0
+	},
+	"input":
+	{
+		"height": 48.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.diagnostics":
+	{
+		"height": 66.0
+	},
+	"output.exec":
+	{
+		"height": 69.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.language servers":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"output.scopehunter.results":
+	{
+		"height": 170.0
+	},
+	"pinned_build_system": "",
+	"project": "bank-record.sublime-project",
+	"replace":
+	{
+		"height": 70.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"main.c",
+				"src/main.cpp"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 181.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 2
+	}
+}
