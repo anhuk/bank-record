@@ -1,6 +1,6 @@
 # Bank Record
 
-Somaday something will be here...
+Someday something will be here...
 
 TODO: 
 
