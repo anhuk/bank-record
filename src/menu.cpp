@@ -30,6 +30,7 @@ void ConsoleMenu::operator()() const {
     out << '\n' << invalidChoiceMessage_;
          }
   result->second();
+  /// Someday try to improve this code
   out << "\n" << "Enter the something to continue...";
   std::getchar();
 }
