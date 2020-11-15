@@ -4,8 +4,8 @@ Somaday something will be here...
 
 TODO: 
 
--[ ] Make code clean.
+- [ ] Make code clean.
 
--[ ] Add more features.
+- [ ] Add more features.
 
--[ ] Learn about keyboard manipulation in the console. 
+- [ ] Learn about keyboard manipulation in the console. 
