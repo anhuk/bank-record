@@ -1,4 +1,4 @@
-# Bank Record
+# Bank Record (Only Unix)
 
 Someday something will be here...
 
